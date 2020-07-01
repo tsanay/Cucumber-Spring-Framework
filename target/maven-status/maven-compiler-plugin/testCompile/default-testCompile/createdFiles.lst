@@ -1,0 +1,8 @@
+skynet\stepsDef\Hook.class
+skynet\config\BasePage.class
+skynet\beans\DashboardPage.class
+skynet\stepsDef\LoginStep.class
+skynet\beans\LoginPage.class
+skynet\CucumberRunnerTest.class
+skynet\stepsDef\CucumberSpringIntegration.class
+skynet\stepsDef\DashboardStep.class
